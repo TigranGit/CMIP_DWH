@@ -39,7 +39,7 @@ Visualization:
 
 #### **Repository Structure**
 
-``` py
+``` sh
 CMIP_DWH/
 ├── README.md                        # Project description and setup instructions
 ├── .gitignore                       # Files and folders to ignore in Git
